@@ -106,11 +106,7 @@
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
 	      <url>http://54.255.174.111:8081/repository/flipkart-snapshot/</url>
 	    </snapshotRepository>
-	<repository>
-	      <id>sonar</id>
-	      <name>admin</name>
-	      <url>http://3.18.103.69:9000/</url>
-	    </repository>
+
 	    
 	</distributionManagement>
 	
